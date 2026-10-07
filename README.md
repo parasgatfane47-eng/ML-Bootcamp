@@ -18,5 +18,7 @@ The first run installs packages and downloads the speech models, so it takes a f
 
 Examples:
 ![Alt Text](Examples/image.png)
+ 
 ![Alt Text](Examples/image-1.png)
+ 
 ![Alt Text](Examples/image-2.png)
