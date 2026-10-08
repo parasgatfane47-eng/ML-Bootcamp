@@ -1,0 +1,16 @@
+1. MINUTES OF MEETING
+======================================================================
+
+The meeting began with introductions of team members: Adam Dugood (facilitator), Ebenezer Ademusoe (marketing expert), Tariq Rahman (industrial designer), and Dave Cochran (user interface designer). The agenda included an overview of the project, tool training, and project plan discussion. The project aims to design a new remote control that is original, trendy, and user-friendly, with three key phases: functional, conceptual, and detailed design. The team discussed user requirements, technical functions, and design components. They also drew their favorite animals: Ebenezer drew an elephant, Tariq drew a tiger, and Dave drew a monkey. The team then explored financial aspects, aiming to sell units for 25 euros each to reach a profit goal of 50 million euros. They discussed a high-end touchscreen LCD remote with advanced programming capabilities and a lower-cost push-button design for multiple device control and macros. Potential markets included gaming and interactive television, with a focus on ergonomics and a stylish, biomorphic design.
+
+
+2. DECISIONS MADE
+======================================================================
+
+No explicit decisions identified.
+
+
+3. KEY ACTIONS
+======================================================================
+
+No action items identified.

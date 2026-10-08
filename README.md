@@ -15,3 +15,10 @@ The whole app runs in this notebook: three model stages plus an interactive web 
 4. The last cell shows the app and a public link like `https://xxxx.gradio.live`. Open it, upload a recording, press **Start processing**.
 
 The first run installs packages and downloads the speech models, so it takes a few minutes. The first time, the install cell **restarts the session by itself** (Colab may say the session crashed; that is expected). Then click **Runtime → Run all** again and it runs straight through.
+
+Examples:
+![Alt Text](Examples/image.png)
+ 
+![Alt Text](Examples/image-1.png)
+ 
+![Alt Text](Examples/image-2.png)
